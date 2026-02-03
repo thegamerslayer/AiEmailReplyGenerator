@@ -1,7 +1,4 @@
-Nice project 👍 — it just needs a **cleaner, more “production-ready” README** that recruiters/interviewers enjoy skimming.
 
-Below is a **polished, well-structured README** you can directly replace your current one with.
-It explains *what*, *why*, *how*, and *architecture* clearly — without overselling AI.
 
 ---
 
